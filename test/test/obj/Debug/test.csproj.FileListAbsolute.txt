@@ -1,0 +1,5 @@
+C:\SagaTest\test\test\bin\Debug\test.exe
+C:\SagaTest\test\test\bin\Debug\test.pdb
+C:\SagaTest\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\SagaTest\test\test\obj\Debug\test.exe
+C:\SagaTest\test\test\obj\Debug\test.pdb
